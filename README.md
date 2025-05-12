@@ -150,7 +150,7 @@ Link para o video sobre o projeto: falta video
 ## 📓 Notas:
 Projeto: Case-Vinheria Agnello
 
-Repositório que servirá como 1º Checkpoint da disciplina de Edge Computing da FIAP
+Repositório que servirá como 2º Checkpoint da disciplina de Edge Computing da FIAP
 
 Professor avaliador: Lucas Demetrius Augusto
 
