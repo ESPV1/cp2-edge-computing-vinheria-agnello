@@ -127,7 +127,7 @@ Link para o video sobre o projeto: falta video
   </tr>
     <tr>
     <td align = "center">
-      <img src="" width="100px" alt= "Guilherme Godoy Profile Image"/><p><a href = "">Guilherme Godoy </a></p><span><b>RM:564417</b></span>
+      <img src="https://avatars.githubusercontent.com/u/105310868?v=4" width="100px" alt= "Guilherme Godoy Profile Image"/><p><a href = "https://github.com/godooooy">Guilherme Godoy </a></p><span><b>RM:564417</b></span>
     </td>
     <td>
       <ul>
