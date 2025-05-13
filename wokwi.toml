@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/cp2-edge-computing-vinheria-agnello.ino.hex'
+elf = 'build/cp2-edge-computing-vinheria-agnello.ino.elf'
