@@ -92,17 +92,6 @@ Link para o video sobre o projeto: falta video
 ## 🧑‍💻 Equipe
 <table>
   <tr><th><span>Integrantes</span></th><th><span>Tarefas</span></th></tr>
-  <tr>
-    <td align = "center">
-      <img src="https://avatars.githubusercontent.com/u/73716198?v=4" width="100px" alt= "Adrian de Souza Profile Image" /><p><a href = "https://github.com/AdrianSouz">Adrian de Souza</a></p><span><b>RM:562959</b></span>
-    </td>
-    <td>
-      <ul>
-        <li>Requisitos Funcionais de Umidade e Display</li>
-        <li>Revisão e otimização do código</li>
-      </ul>
-    </td>
-  </tr>
     <tr>
     <td align = "center">
       <img src="https://avatars.githubusercontent.com/u/202196268?v=4" width="100px" alt= "Camila Martins Profile Image"/><p><a href = "https://github.com/dev-camila">Camila Martins</a></p><span><b>RM:561492</b></span>
