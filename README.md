@@ -13,7 +13,7 @@ Na segunda etapa da solução, será desenvolvido um sistema capaz de captar a t
 ## 🛠️ Detalhes Técnicos
 Para captar e processar dados sobre a luminosidade, utilizaremos um componente chamado LDR (Light Dependent Resistor), cujo princípio de funcionamento baseia-se na variação da condutividade elétrica conforme a presença ou ausência de luz. Esse componente, em conjunto com resistores, pode ser usado para criar condições específicas de leitura. O funcionamento técnico do LDR pode ser descrito da seguinte forma: quanto maior a luminosidade, maior a resistência e menor a tensão; por outro lado, quanto menor a luminosidade, menor a resistência e maior a tensão.
 
-Para captar e tratar dados de temperatura e umidade, utilizaremos um componente chamado DHT22, capaz de medir temperaturas entre -80 °C e 80 °C, além da umidade em uma escala de 0 a 100%. Seu princípio de funcionamento baseia-se na utilização de uma entrada digital que retorna valores binários (0 e 1); a partir desses dados, realiza-se uma conversão para um número hexadecimal (HEX) e, em seguida, para decimal (DEC). Exemplo: Umidade: 0011 0101 = 35H = 53%RH; Temperatura: 0001 1000 = 18H = 24 °C.
+Para captar e tratar dados de temperatura e umidade, utilizaremos um componente chamado DHT22, capaz de medir temperaturas entre -40 °C e 80 °C, além da umidade em uma escala de 0 a 100%. Seu princípio de funcionamento baseia-se na utilização de uma entrada digital que retorna valores binários (0 e 1); a partir desses dados, realiza-se uma conversão para um número hexadecimal (HEX) e, em seguida, para decimal (DEC). Exemplo: Umidade: 0011 0101 = 35H = 53%RH; Temperatura: 0001 1000 = 18H = 24 °C.
 
 O display LCD 16x2 (com interface I2C) será mais uma ferramenta utilizada para exibir visualmente as informações obtidas pelas leituras dos sensores.
 
@@ -72,7 +72,7 @@ para valores abaixo de 50% e também mostrar a umidade;
 - 01 LED Vermelho 🔴 = Para indicar PROBLEMA
 - 01 Buzzer 🔈 = Ativado para chamar atenção
 - 01 LDR = Sensor para medir a luminosidade do ambiente(Parametros entre 8-1016)
-- 01 DHT22 = Medidor de temperatura(-80 C -- 80 C) e umidade(0% - 100%)
+- 01 DHT22 = Medidor de temperatura(-40 C -- 80 C) e umidade(0% - 100%)
 - 01 LCD 16X2 I2C = Tela que irá informar as leituras dos componentes.
 
 ## 🔗Como acessar o projeto
