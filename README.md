@@ -76,7 +76,7 @@ para valores abaixo de 50% e também mostrar a umidade;
 - 01 LCD 16X2 I2C = Tela que irá informar as leituras dos componentes.
 
 ## 🔗Como acessar o projeto
-Para acessar o diagrama do projeto [clique aqui](https://wokwi.com/projects/430119349249768449)
+Para acessar o diagrama do projeto [clique aqui](https://wokwi.com/projects/430970555017844737)
 
 Link para o video sobre o projeto: falta video
 
@@ -111,6 +111,7 @@ Link para o video sobre o projeto: falta video
         <li>Gestão do README e repositório</li>
         <li>Importar Projeto para o Wokwi</li>
         <li>Criar e montar o setup do projeto</li>
+        <li>Revisão de código</li>
       </ul>
     </td>
   </tr>
@@ -121,6 +122,7 @@ Link para o video sobre o projeto: falta video
     <td>
       <ul>
         <li>Requisitos Funcionais Temperatura e Display</li>
+        <li>Requisitos Funcionais Umidade e Display </li>
       </ul>
     </td>
   </tr>
