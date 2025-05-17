@@ -78,7 +78,7 @@ para valores abaixo de 50% e também mostrar a umidade;
 ## 🔗Como acessar o projeto
 Para acessar o diagrama do projeto [clique aqui](https://wokwi.com/projects/430970555017844737)
 
-Link para o video sobre o projeto: falta video
+Link para o video sobre o projeto: [clique aqui](https://youtu.be/kytLoNFnmmY)
 
 ## 🧰 Tecnologias utilizadas
 - Software de Repósitorio Remoto: GitHub
